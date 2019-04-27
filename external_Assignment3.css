@@ -1,0 +1,114 @@
+﻿/*
+Student: Ibrahim Jomaa
+Student ID: 300911528
+*/
+
+body {
+width: 980px;
+margin: auto;
+font-family: Verdana;
+}
+
+h1 {
+border-top-style: solid;
+border-bottom-style: solid;
+font-size: 28px;
+}
+
+hr {
+clear: both;
+}
+
+table, td {
+padding: 10px;
+border-style: solid;
+border-color: #B4B4B4;
+border-left: 2px;
+border-right: 2px;
+font-size: 13px;
+}
+
+td:nth-of-type(odd) {
+background-color: #F3F3F3;
+color: #555555;
+}
+
+td:nth-of-type(even) {
+background-color: #FEFEFE;
+}
+
+ul {
+font-size: 14px;
+}
+
+#banner_image {
+float: left;
+margin-left: 18px;
+border-color: black;
+}
+
+#banner_laptop {
+background-image: url(images/laptop.png);
+height: 100px;
+margin-left: 315px;
+margin-top: 5px;
+}
+
+#homepage {
+margin-left: 330px;	
+}
+
+#laptop_image {
+float: left;
+margin-left: 34px;
+margin-right: 30px;
+margin-top: 53px;
+}
+
+#larger_laptop_image {
+margin-left: 162px;
+}
+
+#product_info {
+clear: both;
+}
+
+#product_map {
+clear: both;
+}
+
+#product_map_image {
+display: block;
+margin: auto;
+}
+
+
+#product_summary {
+float: left;
+width: 500px;
+}
+
+.color_gray {
+color: #585757;
+}
+
+.no_top_margin {
+margin-top: 0px;
+}
+
+.no_bottom_margin {
+margin-bottom: 0px;
+}
+
+.product_info_table {
+float: left;
+margin-left: 57px;
+margin-bottom: 20px;
+}
+
+.similar_products_image_area {
+float: left;
+width: 191px;
+margin-left: 43px;
+font-size: 12px;
+}
